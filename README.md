@@ -27,4 +27,4 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
 
 ## 3. Investigación UX :pencil:
 
-![metodologia_ux](metodologia_ux.png)
+![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
