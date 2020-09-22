@@ -1,7 +1,7 @@
 # Proyecto UX - INDIE CATS
 ___
 
-# Introducción
+# Indice:
 
 ## How Migth We
 
