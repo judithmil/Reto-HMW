@@ -7,7 +7,7 @@ ___
  * [3. Investigación UX](#3-investigación-ux)
  
 
-## 1. How Migth We
+## 1. How Migth We :thought_balloon:
 
 ¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?
 
@@ -29,7 +29,7 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
 
 ![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
 
-### Organización del Trabajo (planificación): 
+### Organización del Trabajo (planificación): :dancers:
  Para realizar nuestra planificación utilizamos _JIRA_  en donde estructuramos bien las tareas que vamos a realizar en este proyecto.
  
- [**Planificación**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog)
+ [**Planificación**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) :point_left:
