@@ -5,7 +5,7 @@ ___
 
 ## How Migth We
 
-¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos universitarios para que tengan mayor dinamismo e interacción en clase?
+¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?
 
 
 ## Preámbulo:
