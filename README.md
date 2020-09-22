@@ -1,4 +1,10 @@
-# Proyecto UX - INDIE CATS
+# **Proyecto UX** 
+
+## Team :INDIE CATS
+
+ * **Milusca Vega**
+ * **Ruth Castro**
+ * **Kriss Ayala**
 ___
 
 # Indice:
