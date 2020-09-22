@@ -1,6 +1,6 @@
-# **Proyecto UX** 
+# **Proyecto UX - Reto-HMW** 
 
-## Team :INDIE CATS
+## Team : INDIE CATS :dancers:
 
  * **Milusca Vega**
  * **Ruth Castro**
@@ -35,7 +35,7 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
 
 ![metodologia_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
 
-### Organización del Trabajo (planificación): :dancers:
+### Organización del Trabajo (planificación): :calendar: :clipboard:
  Para realizar nuestra planificación utilizamos _JIRA_  en donde estructuramos bien las tareas que vamos a realizar en este proyecto.
  
  - [**Planning en Jira**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) :point_left:
