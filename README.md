@@ -27,4 +27,4 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
 
 ## 3. Investigación UX :pencil:
 
-
+![metodologia_ux](src/metodologia_ux.png)
