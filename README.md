@@ -32,4 +32,4 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
 ### Organización del Trabajo (planificación): :dancers:
  Para realizar nuestra planificación utilizamos _JIRA_  en donde estructuramos bien las tareas que vamos a realizar en este proyecto.
  
- [**Planificación**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) :point_left:
+ - [**Planificación**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) :point_left:
