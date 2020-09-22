@@ -23,6 +23,8 @@ A la mayoría de alumnos les parece tedioso llevar día a día estas clases, ya 
 
 ## Resumen del proyecto:
 
+En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, que sienten inconformidad por la poca interacción en sus clases virtuales.
+
 ## 3. Investigación UX :pencil:
 
 
