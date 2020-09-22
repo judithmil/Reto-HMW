@@ -1,5 +1,12 @@
-# DinamiClass
+# Proyecto UX - INDIE CATS
 ___
+
+# Introducción
+
+## How Migth We
+
+¿Cómo podríamos rediseñar la experiencia educativa remota para los alumnos universitarios para que tengan mayor dinamismo e interacción en clase?
+
 
 ## Preámbulo:
 
