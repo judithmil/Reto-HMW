@@ -39,3 +39,29 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
  Para realizar nuestra planificación utilizamos _JIRA_  en donde estructuramos bien las tareas que vamos a realizar en este proyecto.
  
  - [**Planning en Jira**](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/backlog) :point_left:
+ 
+ ### Guía de entrevista: :calling:
+  Las entrevistas que realizamos a nuestros usuarios se realizo por llamada y fueron grabados con su consentimiento.
+  
+ ### Arquetipo: :student
+ Realizamos un arquetipo de nuestros usuarios en el cual nos vamos a basar, poniendo sus preferencias y expectativas.
+ 
+ ![arquetipo_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
+ 
+ ### User Flow: :man_technologist:
+ 
+ ![arquetipo_ux]()
+ 
+ ### Objetivo: :dart:
+ Teniendo los resultados de las entrevistas y después de haber priorizado los problemas del usuario, nuestra idea de producto es lograr que el usuario...
+ 
+ 
+ ### Prototipo de baja fidelidad: :pencil2:
+ 
+ ### Prototipo de alta fidelidad: :art:
+ 
+ ### Resultados: 
+ 
+
+ 
+ 
