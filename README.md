@@ -43,7 +43,7 @@ En este proyecto crearemos soluciones, enfocado en los alumnos universitarios, q
  ### Guía de entrevista: :calling:
   Las entrevistas que realizamos a nuestros usuarios se realizo por llamada y fueron grabados con su consentimiento.
   
- ### Arquetipo: :student
+ ### Arquetipo: :student:
  Realizamos un arquetipo de nuestros usuarios en el cual nos vamos a basar, poniendo sus preferencias y expectativas.
  
  ![arquetipo_ux](https://github.com/judithmil/Reto-HMW/blob/master/metodologia%20ux.png)
