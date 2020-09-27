@@ -25,7 +25,7 @@ Pensando en la necesidad y conyuntura actual, tenemos el enfoque en estudiantes 
 A la mayoría de alumnos les parece tedioso llevar día a día estas clases, ya que sienten que no es lo mismo a una clase presencial, esto a generado la perdida de interes de estar atentos a la mayoria de cursos,por la poca interaccion del profesor con los alumnos, problemas con la señal de internet. :shipit: :mag_right:
 
 
-  ![out](https://i.pinimg.com/originals/b0/20/a2/b020a222e503adfc005b54d8585d6ad3.gif)
+  ![out](https://i.pinimg.com/originals/28/84/ac/2884ac95382a9adf51f816ee1cb53a5a.gif)
 
 ## Resumen del proyecto:
 
