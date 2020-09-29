@@ -2,10 +2,10 @@
 ## Reto How Migth We: "¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?"
 ## Índice:
  * [1. Preámbulo](#1-preámbulo)
- * [2. Resumen del Proyecto](#2-resumen-del-proyecto)
- * [3. Desarrollo del Proyecto](#3-desarrollo-del-proyecto)
- * [4. Contenido de referencia](#4-contenido-de-referencia)
- * [5. Autores](#5-autores)
+ * [2. Resumen del Proyecto](#2-resumen-del-proyecto)
+ * [3. Desarrollo del Proyecto](#3-desarrollo-del-proyecto)
+ * [4. Contenido de referencia](#4-contenido-de-referencia)
+ * [5. Autores](#5-autores)
 ___
 ## 1. Preámbulo :loudspeaker:
 El virus del Covid 19 ha cambiado la forma en que vivimos en muchos aspectos. Países de todo el mundo han tomado medidas radicales para evitar más contagios y en Perú uno de los sectores que mayor transformación ha tenido es el de la Educación, que pasó de ser presencial a totalmente remota.
@@ -91,6 +91,6 @@ Testeamos cada parte del prototipo para comprobar el valor que se iba agregando 
 * Repositorio de contenido: [GitHub](https://github.com/)
 ## 5. Autores :yellow_heart: :black_heart:
  Team : INDIE CATS 	:dancing_women:
- * **Milusca Vega**
- * **Ruth Castro**
- * **Kriss Ayala**
+ * **Milusca Vega**
+ * **Ruth Castro** 
+ * **Kriss Ayala**
