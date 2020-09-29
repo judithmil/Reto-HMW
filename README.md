@@ -1,7 +1,7 @@
 # Proyecto UX
 ## Reto How Migth We: "¿Cómo podríamos rediseñar la experiencia educativa remota para que los alumnos universitarios tengan mayor dinamismo e interacción en clase?"
 ## Índice:
- * [1. Preámbulo](#1-preámbulo)
+ * [1. Preámbulo](#1-preámbulo)
  * [2. Resumen del Proyecto](#2-resumen-del-proyecto)
  * [3. Desarrollo del Proyecto](#3-desarrollo-del-proyecto)
  * [4. Contenido de referencia](#4-contenido-de-referencia)
@@ -26,7 +26,7 @@ El resultado es una guía informativa, amigable y concisa para su fácil entendi
 Seguimos la metodología del Design Thinking:
 ![metodologia_ux](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/metodologia%20ux.png)
 
-### DEFINIR 
+### DEFINIR :dart:
 En nuestra investigación empezamos por comprender el reto del proyecto llamado **How Migth We** para definir de manera general a nuestros usuarios y el contexto: Estudiantes universitarios que llevan clases remotas dada la coyuntura de pandemia por el Covid 19.
 En la planificación se utilizó [Jira](https://ruthcastroalva11.atlassian.net/jira/software/projects/IC/boards/1/roadmap?shared=&atlOrigin=eyJpIjoiMDdkZDBiMmQ0NzJkNDUzZjliOTEyZjkyNGNlNWZmOGQiLCJwIjoiaiJ9) para estructurar a detalle las tareas a realizar en este proyecto.
 ![Planning_Jira](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Jira.png)
@@ -44,6 +44,7 @@ El siguiente paso fue empatizar con nuestros usuarios para comprender sus proble
 | ¿Qué mejorarías y/o implementarías para mejorar tu experiencia con las clases remotas? |
 > Las entrevistas fueron grabadas previo consentimiento y almacenadas en este [Drive](https://drive.google.com/drive/folders/1b-pp83bDJM_JM2Gj_joJ8Iyrqajo-XLL?usp=sharing)
 ![problemas](https://github.com/ruthcastroalva11/Reto-HMW/blob/master/Images/Problemas_encontrados.jpg)
+
 Así encontramos:
 * Problema Principal: **Falta de dinamismo e interacción en clases.**
 Con lo que terminamos de definir nuestro reto HMW:
